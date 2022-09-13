@@ -2,20 +2,17 @@ body{
     background: #F4F4F4;
 }
 /* header part */
-.col-lg-12 input {
-    padding: 10px;
+input{
     background: #F1F1F1;
     border-style: none;
     color: #CCCCCC;
-    padding-left: 30px;
-    margin-left: 30px;
-    margin-right: 100px;
+    padding: 10px;
 }
 ul>li{
     padding-left: 40px;
 }
 .margin{
-    margin-top: 110px;
+    margin-top: 100px;
 }
 
 /* carousel part */
@@ -25,7 +22,6 @@ ul>li{
 .carousel-img{
     height: 370px;
 }
-
 button{
     color:#FFFFFF;
     border-radius: 8px;
@@ -38,7 +34,7 @@ button{
     
 }
 .fa-arrow-right{
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
 /* categories start */
@@ -60,10 +56,27 @@ button{
     transition: .5s ease-in-out .5s;
 }
 
-/* shoes */
+/* shoes and backpack*/
 .buys{
     background: #000000;
 }
 .card-border{
     background: #FFFFFF;
 }
+
+/* contact us */
+.contact-background-all{
+    background-color: #FFFFFF;    
+}
+.contact-background{
+    background: #FEEAE9;
+    position: relative;
+    top:50px;
+}
+
+/* footer */
+.margin-footer{
+    margin:30px auto; 
+}
+
+
